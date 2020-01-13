@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <div lang="en">
 <head>
   <meta charset="utf-8">
@@ -10,8 +8,6 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
-  <!-- <link href="https://fonts.googleapis.com/css?family=Syncopate:400,700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Cinzel:400,900|Libre+Baskerville|Playfair+Display&display=swap" rel="stylesheet"> -->
   <link href="https://fonts.googleapis.com/css?family=Cinzel:400,900|Roboto:400,400i,500&display=swap" rel="stylesheet">
   
   <style>
@@ -20,7 +16,6 @@
         padding: 2rem;
         /* font-family: 'Libre Baskerville', serif; */
         font-family: 'Roboto', sans-serif;
-
         font-size: 16px;
         color: #323232;
         line-height: 25px;
@@ -42,8 +37,7 @@
           border: 10px solid #fff;
           box-shadow: 0 0 5px rgba(0,0,0,0.2);
           display: block;
-          
-      }
+     }
       iframe{
           width:100%
       }
